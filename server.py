@@ -1,3 +1,6 @@
+import socket
+import psutil
+
 s= socket.socket()
 host = ""
 port=12345
